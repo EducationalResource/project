@@ -7,3 +7,5 @@ Deploying RAG system into Cloudera Machine Learning Platform
 Proof of Concept of a GraphRAG implementation using LangChain and Neo4j on JSON semi-structured data on Job Roles.
 ## 4. AI API Integration Platform
 Company Website
+## 5. Eiger Ltd Frontend
+Frontend with Svelte Framework
